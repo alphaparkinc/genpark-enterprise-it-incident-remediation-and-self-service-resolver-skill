@@ -1,0 +1,8 @@
+{
+  "name": "genpark-enterprise-it-incident-remediation-and-self-service-resolver-skill",
+  "version": "1.0.0",
+  "description": "Autonomous IT incident triage, access entitlement verifier, and employee self-service resolution engine",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}

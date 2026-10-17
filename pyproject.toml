@@ -1,0 +1,7 @@
+[project]
+name = "genpark-enterprise-it-incident-remediation-and-self-service-resolver-skill"
+version = "1.0.0"
+description = "Autonomous IT incident triage, access entitlement verifier, and employee self-service resolution engine"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
